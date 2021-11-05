@@ -12,19 +12,6 @@ const Home = () => {
                 </div>
             </div>
             <div>
-            <div className="row">
-                <div className="col-4">
-
-                </div>
-                <div id="endpoint" className="col text-center">
-                <h2>
-                    Endpoints
-                </h2>
-                </div>
-                <div className="col-4">
-
-                </div>
-            </div>
             <div id="content" className="row">
                 <div className="col-4">
                 
