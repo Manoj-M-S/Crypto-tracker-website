@@ -85,8 +85,8 @@ footer .column i+i {
 
 .card {
   border-radius: 15px;
-  box-shadow: 0 4px 8px 0 rgba(102, 101, 101, 0.2),
-    0 6px 20px 0 rgba(109, 109, 109, 0.19);
+  box-shadow: 0 4px 8px 0 rgba(206, 206, 206, 0.2),
+    0 6px 20px 0 rgba(185, 185, 185, 0.19);
   padding: 10px;
   margin: 10px;
   background:' rgba(255, 255, 255, 0.815)'

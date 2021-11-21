@@ -8,7 +8,7 @@ const Home = () => {
             <div className="container-fluid">
                 <div className="jumbotron  text-center">
                     <h2 className="display-4"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F9b%2F9b228c4b3c1368fa9660715fd95b2148.png&f=1&nofb=1" alt="Crypto" width="150px" height="100px"/>  CRYPTO TRACKER</h2>
-                    <p className="lead">This is a Crypto tracker website, using which users can get the Top 10 ranked, trending, top gainers, top losers, most visited and recently added crypto currencies lists.</p>
+                    <p className="lead">This is a Real Time Crypto tracking website, using which users can get the Top 10 ranked, trending, top gainers, top losers, most visited and recently added crypto currencies lists.</p>
                 </div>
             </div>
             <div>
