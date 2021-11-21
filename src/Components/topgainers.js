@@ -50,7 +50,7 @@ const Topgainers = () => {
           })
         ) : (
             <div className="loading" >
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FI6kN-6X7nhAAAAAj%2Floading-buffering.gif&f=1&nofb=1" alt="Loading.." width="100px" height="100px"/>
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwp-technique.com%2Floading%2Floading.gif&f=1&nofb=1" alt="Loading.." width="80px" height="80px" />
          </div>
         )
     )

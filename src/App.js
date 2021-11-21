@@ -8,6 +8,7 @@ import Top10 from "./Components/top10";
 import Topgainers from "./Components/topgainers";
 import Toplosers from "./Components/toplosers";
 import Toptrending from "./Components/trending";
+import ErrorPage from "./Components/ErrorPage";
 
 
 const App = () => {
@@ -21,6 +22,7 @@ const App = () => {
         <Route path="/topgainers" exact component={Topgainers} />
         <Route path="/toplosers" exact component={Toplosers} />
         <Route path="/trending" exact component={Toptrending} />
+        <Route path="*" exact  component={ErrorPage} />
       </Switch>
     </BrowserRouter>
   );
